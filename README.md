@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jhansi0569
+- 👀 I’m interested in adapting new skills
+- 🌱 I’m currently learning Python
